@@ -1,10 +1,10 @@
-# PocketWatcher 🎙️💰
+# N3L 🎙️💰
 
 Your AI-Powered Voice Financial Advisor
 
 ## Overview
 
-PocketWatcher is an innovative financial management application that combines the power of voice interaction through the Omi device with advanced AI to provide personalized financial advice and spending tracking. By simply speaking your purchases and expenses into the Omi device, PocketWatcher builds a comprehensive understanding of your financial habits and provides actionable insights to help you achieve your financial goals.
+N3L is an innovative financial management application that combines the power of voice interaction through the Omi device with advanced AI to provide personalized financial advice and spending tracking. By simply speaking your purchases and expenses into the Omi device, N3L builds a comprehensive understanding of your financial habits and provides actionable insights to help you achieve your financial goals.
 
 ## Features
 
@@ -77,7 +77,7 @@ PocketWatcher is an innovative financial management application that combines th
 
 2. **Application Installation**
    ```bash
-   # Download PocketWatcher app
+   # Download N3L app
    # Link Omi device
    # Set up user account
    ```
@@ -123,19 +123,19 @@ PocketWatcher is an innovative financial management application that combines th
 
 ## Contributing
 
-We welcome contributions to PocketWatcher! Please read our contributing guidelines and submit pull requests for any enhancements.
+We welcome contributions to N3L! Please read our contributing guidelines and submit pull requests for any enhancements.
 
 ## Support
 
 For technical support or questions:
-- Email: support@pocketwatcher.com
-- Discord: [PocketWatcher Community]
-- Documentation: [docs.pocketwatcher.com]
+- Email: support@n3l.com
+- Discord: [N3L Community]
+- Documentation: [docs.n3l.com]
 
 ## License
 
-PocketWatcher is licensed under the MIT License. See the LICENSE file for more details.
+N3L is licensed under the MIT License. See the LICENSE file for more details.
 
 ---
 
-Made with ❤️ by the PocketWatcher Team
+Made with ❤️ by the N3L Team
